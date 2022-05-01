@@ -1,0 +1,148 @@
+{
+  "productos_alurageek": [
+    {
+      "imagen": "./img/productos/starwar/producto 2.png",
+      "nombre": "Darth Vader",
+      "seccion": "Starwar",
+      "precio": "7500",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 1
+    },
+    {
+      "imagen": "./img/productos/starwar/producto 3.png",
+      "nombre": "Yoda Escondido",
+      "seccion": "Starwar",
+      "precio": "6300",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 2
+    },
+    {
+      "imagen": "./img/productos/starwar/producto 4.png",
+      "nombre": "Poducto ZYX",
+      "seccion": "Starwar",
+      "precio": "2700",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis, itaque accusamus. Quae neque voluptas delectus omnis maxime similique natus veniam cupiditate, doloremque minima sed quisquam. Ad animi architecto impedit nostrum aut officia tempora dolorem soluta.",
+      "id": 3
+    },
+    {
+      "imagen": "./img/productos/starwar/producto 5.png",
+      "nombre": "Baby Yoda",
+      "seccion": "Starwar",
+      "precio": "3600",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 4
+    },
+    {
+      "imagen": "./img/productos/starwar/producto 6.png",
+      "nombre": "Poducto XYZ",
+      "seccion": "Starwar",
+      "precio": "6000",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 5
+    },
+    {
+      "nombre": "Poducto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis, itaque accusamus. Quae neque voluptas delectus omnis maxime similique natus veniam cupiditate, doloremque minima sed quisquam. Ad animi architecto impedit nostrum aut officia tempora dolorem soluta.",
+      "imagen": "./img/productos/starwar/producto 1.png",
+      "seccion": "Starwar",
+      "id": 6
+    },
+    {
+      "imagen": "./img/productos/consolas/consola1.png",
+      "nombre": "Control Play 5",
+      "seccion": "Consolas",
+      "precio": "5500",
+      "descripcion": "Es el nuevo control para la Play5, en formato blanco y botones premium.",
+      "id": 7
+    },
+    {
+      "imagen": "./img/productos/consolas/consola2.png",
+      "nombre": "Consola Play 5",
+      "seccion": "Consolas",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 8
+    },
+    {
+      "imagen": "./img/productos/consolas/consola3.png",
+      "nombre": "Nintendo",
+      "seccion": "Consolas",
+      "precio": "3468",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 9
+    },
+    {
+      "imagen": "./img/productos/consolas/consola4.png",
+      "nombre": "Controles NSwitch",
+      "seccion": "Consolas",
+      "precio": "4500",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 10
+    },
+    {
+      "nombre": "Poducto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis, itaque accusamus. Quae neque voluptas delectus omnis maxime similique natus veniam cupiditate, doloremque minima sed quisquam. Ad animi architecto impedit nostrum aut officia tempora dolorem soluta.",
+      "imagen": "./img/productos/consolas/consola5.png",
+      "seccion": "Consolas",
+      "id": 11
+    },
+    {
+      "imagen": "./img/productos/consolas/consola6.png",
+      "nombre": "Video jugo Vintage",
+      "seccion": "Consolas",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 12
+    },
+    {
+      "nombre": "Despertador WIFI",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis, itaque accusamus. Quae neque voluptas delectus omnis maxime similique natus veniam cupiditate, doloremque minima sed quisquam. Ad animi architecto impedit nostrum aut officia tempora dolorem soluta.",
+      "imagen": "./img/productos/diversos/despertador wifi.png",
+      "seccion": "Diversos",
+      "id": 13
+    },
+    {
+      "nombre": "Oculus",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis, itaque accusamus. Quae neque voluptas delectus omnis maxime similique natus veniam cupiditate, doloremque minima sed quisquam. Ad animi architecto impedit nostrum aut officia tempora dolorem soluta.",
+      "imagen": "./img/productos/diversos/oculus.png",
+      "seccion": "Diversos",
+      "id": 14
+    },
+    {
+      "imagen": "./img/productos/diversos/picacku.png",
+      "nombre": "Peluche Pikachu",
+      "seccion": "Diversos",
+      "precio": "1800",
+      "descripcion": "Peluche Pikachu de 30cm. Edición especial. Viene con regalo sorpresa!",
+      "id": 15
+    },
+    {
+      "imagen": "./img/productos/diversos/remera atari.png",
+      "nombre": "Remera Atari",
+      "seccion": "Diversos",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 16
+    },
+    {
+      "imagen": "./img/productos/diversos/remera nes.png",
+      "nombre": "Remera NES nueva",
+      "seccion": "Diversos",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis.",
+      "id": 17
+    },
+    {
+      "imagen": "./img/productos/diversos/sonic.png",
+      "nombre": "Sonic 4000",
+      "seccion": "Diversos",
+      "precio": "60",
+      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque animi ab quos magnam, perferendis rem illum consectetur tenetur veritatis, itaque accusamus. Quae neque voluptas delectus omnis maxime similique natus veniam cupiditate, doloremque minima sed quisquam. Ad animi architecto impedit nostrum aut officia tempora dolorem soluta.",
+      "id": 18
+    }
+  ]
+}
